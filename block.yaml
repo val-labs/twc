@@ -1,0 +1,12 @@
+$$TTL: 10
+$Id: 0123456789abcdef
+$Nonce: 12345678 4
+BlockNo: 107
+Zaa: www
+~~:
+- - "e, r1"
+  - "e, r2"
+  - "e, r3"
+  - eee:
+- [e, r2]
+aaa: www
